@@ -46,7 +46,7 @@ CONTROLNET_MODELS=(
 CLIP_VISION_MODELS=(
     "https://huggingface.co/stabilityai/control-lora/resolve/main/revision/clip_vision_g.safetensors?download=true"
     "https://huggingface.co/h94/IP-Adapter/blob/main/models/ip-adapter_sd15.safetensors?download=true"
-    "https://huggingface.co/h94/IP-Adapter/blob/main/sdxl_models/ip-adapter_sdxl.safetensors=true"
+    "https://huggingface.co/h94/IP-Adapter/blob/main/sdxl_models/ip-adapter_sdxl.safetensors?download=true"
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
